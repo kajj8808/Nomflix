@@ -32,7 +32,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://kajj8808.github.io/nomadAcademyNomflix",
+  "homepage": "https://ecstatic-pasteur-2776f7.netlify.app/",
   "browserslist": {
     "production": [
       ">0.2%",
