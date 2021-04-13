@@ -78,7 +78,7 @@ const SearchPresenter = ({
         )}
         {error && <Message text={error} color="#eb4d4b" />}
         {tvResults && movieResults && tvResults.length === 0 && movieResults.length === 0 && (
-          <Message text="Nothing found for" />
+          <Message text={`Nothing found for ${searchTerm}`} />
         )}
       </>
     )}

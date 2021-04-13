@@ -23,8 +23,9 @@
 - [x] IMDB Link
 - [x] Tabs inside of Moive / Show Details (YouTube Videos , {Produciton company , Produciton coutries} ) 
 - [x] Collections Link 
-<!-- - [ ] /collections Router /* api 에 컬랙션이 있음. */
- -->
- - [x] On TV Show, show seasons and creatos
+- [x] On TV Show, show seasons and creatos
 
-Create_by 
+## Preview:
+Try it on [netlify]("https://ecstatic-pasteur-2776f7.netlify.app/")
+
+Create_by kajj8808
