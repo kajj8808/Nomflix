@@ -2,10 +2,10 @@
 
 ## Screens
 
-- [ ] Home Router #Movie List
-- [ ] TV Shows Router
-- [ ] Search Router
-- [ ] Detail Router
+- [x] Home Router #Movie List
+- [x] TV Shows Router
+- [x] Search Router
+- [x] Detail Router
 
 ## API Verbs
 
